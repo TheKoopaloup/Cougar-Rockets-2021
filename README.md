@@ -8,7 +8,8 @@ Argonia Cup Competition Launch Video.  Click and it should open/play.
 Cougar Rockets Second Launch Non-Competition (This is the launch from FPV Video)
 [![NON-Competition Launch (Link to Youtube)](https://img.youtube.com/vi/wR5LSiZ9FUQ/0.jpg)](https://www.youtube.com/watch?v=wR5LSiZ9FUQ)
 
-FPV View of Above Launch 
+FPV View from Rocket. We could view this video as the rocket was launched in real time.  
+
 [![FPV View of Launch (Link to Youtube)](https://img.youtube.com/vi/JqKuyUOPcXU/0.jpg)](https://www.youtube.com/watch?v=JqKuyUOPcXU)
 
 Sound Barrier Example, Notice how the first two second of the video you can see the smoke before you hear the noise.  This is because the rocket is breaking the sound barrier.  
